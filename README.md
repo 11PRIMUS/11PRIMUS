@@ -90,3 +90,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=11primus&show_icons=true&locale=en" alt="11primus" />
 </p>
+<br clear="both">
+<img src="https://raw.githubusercontent.com/maurodesousza/maurodesouza/output/snake.svg" alt="Snake animation"/>
