@@ -5,7 +5,7 @@
 
 <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRwa2JnMmh1dW1rdTl6bTQ5NzM4c2M3emlkNWVwc2V6ZGdsZjZ3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2y1Ns6zIfK6WI8d21y/giphy.webp" />
 
-</div
+</div>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=11primus" alt="11primus" />
@@ -90,10 +90,11 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=11primus&show_icons=true&locale=en&layout=compact" alt="11primus" />
 </p>
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=11primus&show_icons=true&locale=en" alt="11primus" />
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=11primus&show_icons=true&locale=en" alt="11primus" />
 </p>
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesousza/maurodesouza/output/snake.svg" alt="Snake animation"/>
+
+<p>
+  <br clear="both">
+  <img src="https://raw.githubusercontent.com/11primus/output/main/github-snake.svg" alt="Snake animation"/>
+</p>
