@@ -20,15 +20,11 @@
 ---
 
 $ whoami  
-> A second-year undergrad working on CNN-based classification and llm's  
-
-$ skills --list  
-> 🧠 Deep Learning (CNNs, GANs, Transformers)  
-> 💻 Python, C++, OpenCV, PyTorch, TensorFlow  
+> pre final year undergrad, gpu poor 
 
 $ projects --top  
-> 🚀 Early Stage Cancer Classification 🔗 [GitHub](https://github.com/11PRIMUS/Early-Stage-Cancer-Prediction)  
-> 🎨 SAR Image Colorization 🔗 [GitHub](https://github.com/11PRIMUS/SAR-image-Colorization)  
+> 🚀 Meera 🔗 [GitHub](https://github.com/11PRIMUS/meera_1)  
+> 🎨 Memento🔗 [GitHub](https://github.com/11PRIMUS/memento3)  
 
 $ connect with --me  
 <br> </br>
@@ -37,12 +33,6 @@ $ connect with --me
 📊 Kaggle: [primus11](https://kaggle.com/primus11)  
 
 ---
-
-$ GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=11primus&show_icons=true&theme=radical">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=11primus&theme=radical">
-</p>
 
 <div align="center">
   <img height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVjenZ0MnNoZmFsMWcyMjFoY3NpYWQyNWdmZGtnNDd3ZThmODM4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hRLz2uLh5AX1zPsjOS/giphy.gif" />
